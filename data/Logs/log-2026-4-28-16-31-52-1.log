@@ -1,0 +1,521 @@
+2026/4/28 16:31:52|Information|ClassIsland.App|ClassIsland 2.0.0.2-Khaslana-af9cdea(HEAD) (Core 2.0.0.0)
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\Users\zhuch\AppData\Local\ClassIsland\Management\Persist.json
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\Users\zhuch\AppData\Local\ClassIsland\Management\Settings.json
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\Management\Policy.json
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\Management\Credentials.json
+2026/4/28 16:31:52|Information|ClassIsland.Services.SettingsService|加载配置文件。
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:31:52|Information|ClassIsland.Services.SettingsService|写入配置文件：DiagnosticStartupCount
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:31:52|Information|ClassIsland.App|初始化应用。
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Cache\Update\DistributionInfo.json
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Cache\Update\DistributionMetadata.json
+2026/4/28 16:31:52|Information|ClassIsland.Services.ProfileService|加载档案中：C:\ClassIsland\data\Profiles\Default.json
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Profiles\Default.json
+2026/4/28 16:31:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 16:31:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 16:31:52
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\ComponentLayouts\Default.json
+2026/4/28 16:31:52|Information|ClassIsland.Services.LessonsService|发出时间状态改变事件。
+2026/4/28 16:31:52|Information|ClassIsland.Services.LessonsService|发出上课事件。
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒提供方：08f0d9c3-c770-4093-a3d0-02f3d90c24bc（上下课提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒渠道：cddfe7ff-b904-4c73-b458-82793b2f66e9（准备上课提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒渠道：aff5b9a4-037c-4a71-8563-c9ea87dda75c（上课提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒渠道：77c9f3fb-0a2a-4b22-bddf-3c333462b2f9（下课提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|获取提醒提供方设置：08f0d9c3-c770-4093-a3d0-02f3d90c24bc
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒提供方：8fbc3a26-6d20-44dd-b895-b9411e3ddc51（放学提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|获取提醒提供方设置：8fbc3a26-6d20-44dd-b895-b9411e3ddc51
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒提供方：7625de96-38aa-4b71-b478-3f156dd9458d（天气预警）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|获取提醒提供方设置：7625de96-38aa-4b71-b478-3f156dd9458d
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒提供方：4b12f124-8585-43c7-afc5-7bbb7cbe60d6（行动提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒提供方：b27c0af3-c917-44de-a61d-8010c3f3fb92（地震预警）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|获取提醒提供方设置：b27c0af3-c917-44de-a61d-8010c3f3fb92
+2026/4/28 16:31:52|Information|ExtraIsland.Shared.ServicesFetcherService|正在获取服务...
+2026/4/28 16:31:52|Information|ExtraIsland.Plugin|ExtraIsland 已载入!
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒提供方：f377c816-42b1-4d1a-aa69-a67ddd6beb6d（更好的倒计时提醒）
+2026/4/28 16:31:52|Information|ClassIsland.Services.NotificationHostService|注册提醒渠道：40f73a64-a0d8-480b-8026-f0a71a14d6fb（倒计时结束）
+2026/4/28 16:31:52|Information|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026/4/28 16:31:52|Information|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026/4/28 16:31:52|Information|Microsoft.Hosting.Lifetime|Content root path: C:\ClassIsland\app-2.0.0.2-0\
+2026/4/28 16:31:52|Information|ClassIsland.App|App started.
+2026/4/28 16:31:52|Information|ClassIsland.Services.PluginMarketService|正在加载插件源
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\PluginsIndex\Default\index.v2.json
+2026/4/28 16:31:52|Information|ClassIsland.Services.SettingsService|写入配置文件：OfficialIndexMirrors
+2026/4/28 16:31:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:31:52|Information|ClassIsland.App|正在初始化MainWindow。
+2026/4/28 16:31:52|Information|ClassIsland.Services.SpeechService.SystemSpeechService|初始化了系统TTS服务。
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\EnabledThemes.json
+2026/4/28 16:31:53|Information|ClassIsland.Services.XamlThemeService|正在加载主题源
+2026/4/28 16:31:53|Information|ClassIsland.Services.PluginMarketService|正在加载插件源
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\PluginsIndex\Default\index.v2.json
+2026/4/28 16:31:53|Information|ClassIsland.Services.SettingsService|写入配置文件：OfficialIndexMirrors
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\PluginsIndex\Default\themes.json
+2026/4/28 16:31:53|Information|ClassIsland.Services.XamlThemeService|正在从资源加载主题 avares://ClassIsland/XamlThemes/FluentTheme/Styles.axaml
+2026/4/28 16:31:53|Information|ClassIsland.Services.XamlThemeService|正在加载主题源
+2026/4/28 16:31:53|Information|ClassIsland.Services.PluginMarketService|正在加载插件源
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\PluginsIndex\Default\index.v2.json
+2026/4/28 16:31:53|Information|ClassIsland.Services.SettingsService|写入配置文件：OfficialIndexMirrors
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\PluginsIndex\Default\themes.json
+2026/4/28 16:31:53|Information|ClassIsland.Services.XamlThemeService|正在从资源加载主题 avares://ClassIsland/XamlThemes/FluentTheme/Styles.axaml
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'IsVisible' to 'SettingsService.Settings.IsMainWindowVisible' at 'SettingsService': 'Could not find a matching property accessor for 'SettingsService' on 'ClassIsland.Core.Models.Components.MainWindowLineSettings'.' (Grid #GridRoot)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'Content' to '$visualParent[MainWindowLine].OverlayContent.Content' at 'OverlayContent': 'Value is null.' (ContentPresenter #58745844)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'ContentTemplate' to '$visualParent[MainWindowLine].OverlayContent.ContentTemplate' at 'OverlayContent': 'Value is null.' (ContentPresenter #58745844)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'Content' to '$visualParent[MainWindowLine].MaskContent.Content' at 'MaskContent': 'Value is null.' (ContentPresenter #OverlayMaskContent)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'ContentTemplate' to '$visualParent[MainWindowLine].MaskContent.ContentTemplate' at 'MaskContent': 'Value is null.' (ContentPresenter #OverlayMaskContent)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'IsVisible' to 'SettingsService.Settings.IsMainWindowVisible' at 'SettingsService': 'Could not find a matching property accessor for 'SettingsService' on 'ClassIsland.Core.Models.Components.MainWindowLineSettings'.' (Grid #GridRoot)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'Content' to '$visualParent[MainWindowLine].OverlayContent.Content' at 'OverlayContent': 'Value is null.' (ContentPresenter #39604677)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'ContentTemplate' to '$visualParent[MainWindowLine].OverlayContent.ContentTemplate' at 'OverlayContent': 'Value is null.' (ContentPresenter #39604677)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'Content' to '$visualParent[MainWindowLine].MaskContent.Content' at 'MaskContent': 'Value is null.' (ContentPresenter #OverlayMaskContent)
+2026/4/28 16:31:53|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'ContentTemplate' to '$visualParent[MainWindowLine].MaskContent.ContentTemplate' at 'MaskContent': 'Value is null.' (ContentPresenter #OverlayMaskContent)
+2026/4/28 16:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Cache\Update\DistributionMetadata.json
+2026/4/28 16:31:54|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 16:31:54|Information|ClassIsland.Services.SettingsService|写入配置文件：LastCheckUpdateTime
+2026/4/28 16:31:54|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:31:54|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 16:31:54|Information|ClassIsland.Services.DiagnosticService|启动共花费 2654ms, [2, 4)
+2026/4/28 16:31:54|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Animations] Cannot find the appropriate transform: "Avalonia.Media.TranslateTransform" in ClassIsland.Core.Controls.FluentIcon. (FluentIcon #42052973)
+2026/4/28 16:31:54|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'ItemsSource' to 'ClassPlan.TimeLayout.Layouts' at 'ClassPlan': 'Value is null.' (LessonsListBox #MainLessonsListBox)
+2026/4/28 16:31:54|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'ItemsSource' to 'ClassPlan.TimeLayout.Layouts' at 'ClassPlan': 'Value is null.' (LessonsListBox #TomorrowLessonsListBox)
+2026/4/28 16:31:54|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\Automations\Default.json
+2026/4/28 16:31:54|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 16:31:54|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:32:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 200.21 MiB(209940480 Bytes)
+2026/4/28 16:33:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 202.95 MiB(212811776 Bytes)
+2026/4/28 16:34:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 202.51 MiB(212348928 Bytes)
+2026/4/28 16:35:09|Information|ClassIsland.Services.LessonsService|ProcessLessons=>MainTimerTicked=>发出时间状态改变事件。
+2026/4/28 16:35:09|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|ProcessLessons=>MainTimerTicked=>[Binding] An error occurred binding 'ItemsSource' to 'ClassPlan.TimeLayout.Layouts' at 'ClassPlan': 'Value is null.' (LessonsListBox #MainLessonsListBox)
+2026/4/28 16:35:09|Information|ClassIsland.Services.LessonsService|ProcessLessons=>MainTimerTicked=>发出放学事件。
+2026/4/28 16:35:09|Information|ClassIsland.Controls.MainWindowLine|ProcessLessons=>MainTimerTicked=>处理通知请求：ClassIsland.Core.Models.Notification.NotificationContent ClassIsland.Core.Models.Notification.NotificationContent
+2026/4/28 16:35:10|Information|ClassIsland.Controls.MainWindowLine|ProcessLessons=>MainTimerTicked=>即将播放提醒音效：
+2026/4/28 16:35:10|Information|ClassIsland.Views.TopmostEffectWindow|ProcessLessons=>MainTimerTicked=>播放顶层特效：ClassIsland.Controls.NotificationEffects.RippleEffect
+2026/4/28 16:35:11|Information|ClassIsland.Views.TopmostEffectWindow|结束播放并移除顶层特效：ClassIsland.Controls.NotificationEffects.RippleEffect
+2026/4/28 16:35:45|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|ProcessLessons=>MainTimerTicked=>[Binding] An error occurred binding 'Content' to '$visualParent[MainWindowLine].OverlayContent.Content' at 'OverlayContent': 'Value is null.' (ContentPresenter #58745844)
+2026/4/28 16:35:45|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|ProcessLessons=>MainTimerTicked=>[Binding] An error occurred binding 'ContentTemplate' to '$visualParent[MainWindowLine].OverlayContent.ContentTemplate' at 'OverlayContent': 'Value is null.' (ContentPresenter #58745844)
+2026/4/28 16:35:45|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|ProcessLessons=>MainTimerTicked=>[Binding] An error occurred binding 'Content' to '$visualParent[MainWindowLine].MaskContent.Content' at 'MaskContent': 'Value is null.' (ContentPresenter #OverlayMaskContent)
+2026/4/28 16:35:45|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|ProcessLessons=>MainTimerTicked=>[Binding] An error occurred binding 'ContentTemplate' to '$visualParent[MainWindowLine].MaskContent.ContentTemplate' at 'MaskContent': 'Value is null.' (ContentPresenter #OverlayMaskContent)
+2026/4/28 16:35:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 357.38 MiB(374743040 Bytes)
+2026/4/28 16:36:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 16:36:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 16:36:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 355.30 MiB(372555776 Bytes)
+2026/4/28 16:36:52|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 16:36:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:37:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 354.07 MiB(371265536 Bytes)
+2026/4/28 16:38:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 354.97 MiB(372215808 Bytes)
+2026/4/28 16:39:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 352.04 MiB(369135616 Bytes)
+2026/4/28 16:40:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 345.55 MiB(362336256 Bytes)
+2026/4/28 16:41:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 16:41:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 16:41:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 16:41:52
+2026/4/28 16:41:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 16:41:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.38 MiB(354820096 Bytes)
+2026/4/28 16:41:52|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 16:41:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:42:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.29 MiB(354725888 Bytes)
+2026/4/28 16:43:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.29 MiB(354725888 Bytes)
+2026/4/28 16:44:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.30 MiB(354729984 Bytes)
+2026/4/28 16:45:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.35 MiB(354783232 Bytes)
+2026/4/28 16:46:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 16:46:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 16:46:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.11 MiB(354529280 Bytes)
+2026/4/28 16:46:52|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 16:46:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:47:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 337.53 MiB(353927168 Bytes)
+2026/4/28 16:48:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 340.91 MiB(357466112 Bytes)
+2026/4/28 16:49:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 340.91 MiB(357466112 Bytes)
+2026/4/28 16:50:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 340.81 MiB(357367808 Bytes)
+2026/4/28 16:51:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 16:51:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 16:51:52
+2026/4/28 16:51:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 16:51:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 16:51:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 339.23 MiB(355708928 Bytes)
+2026/4/28 16:51:52|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 16:51:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:52:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.23 MiB(354664448 Bytes)
+2026/4/28 16:53:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.23 MiB(354656256 Bytes)
+2026/4/28 16:54:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.46 MiB(354902016 Bytes)
+2026/4/28 16:55:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.46 MiB(354906112 Bytes)
+2026/4/28 16:56:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 16:56:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 16:56:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 340.47 MiB(357011456 Bytes)
+2026/4/28 16:56:52|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 16:56:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 16:57:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 337.85 MiB(354258944 Bytes)
+2026/4/28 16:58:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.76 MiB(355217408 Bytes)
+2026/4/28 16:59:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.59 MiB(355041280 Bytes)
+2026/4/28 17:00:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.55 MiB(354996224 Bytes)
+2026/4/28 17:01:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 17:01:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 17:01:52
+2026/4/28 17:01:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:01:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 338.61 MiB(355057664 Bytes)
+2026/4/28 17:01:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:01:52|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:01:52|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:02:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 339.55 MiB(356048896 Bytes)
+2026/4/28 17:03:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 339.55 MiB(356040704 Bytes)
+2026/4/28 17:04:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 339.19 MiB(355667968 Bytes)
+2026/4/28 17:05:18|Error|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Visual] windows::UI::Composition::ICompositor5.RequestCommitAsync timed out, force-triggering next tick (RunLoopHandler #33706384)
+2026/4/28 17:05:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 251.59 MiB(263806976 Bytes)
+2026/4/28 17:06:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:06:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 254.64 MiB(267014144 Bytes)
+2026/4/28 17:06:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:06:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:06:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:07:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 260.64 MiB(273301504 Bytes)
+2026/4/28 17:08:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 260.64 MiB(273301504 Bytes)
+2026/4/28 17:09:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 266.65 MiB(279605248 Bytes)
+2026/4/28 17:10:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 272.33 MiB(285556736 Bytes)
+2026/4/28 17:11:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 17:11:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 17:11:52
+2026/4/28 17:11:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:11:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 272.26 MiB(285483008 Bytes)
+2026/4/28 17:11:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:11:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:11:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:12:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 273.27 MiB(286539776 Bytes)
+2026/4/28 17:13:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 271.45 MiB(284635136 Bytes)
+2026/4/28 17:14:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 271.66 MiB(284860416 Bytes)
+2026/4/28 17:15:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 277.56 MiB(291045376 Bytes)
+2026/4/28 17:16:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:16:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 277.61 MiB(291098624 Bytes)
+2026/4/28 17:16:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:16:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:16:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:17:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 277.48 MiB(290955264 Bytes)
+2026/4/28 17:18:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 277.70 MiB(291192832 Bytes)
+2026/4/28 17:19:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 277.73 MiB(291225600 Bytes)
+2026/4/28 17:20:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 277.77 MiB(291258368 Bytes)
+2026/4/28 17:21:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 17:21:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 17:21:52
+2026/4/28 17:21:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:21:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.10 MiB(291610624 Bytes)
+2026/4/28 17:21:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:21:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:21:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:22:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.24 MiB(291758080 Bytes)
+2026/4/28 17:23:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.68 MiB(292216832 Bytes)
+2026/4/28 17:24:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292323328 Bytes)
+2026/4/28 17:25:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292323328 Bytes)
+2026/4/28 17:26:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:26:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.73 MiB(292274176 Bytes)
+2026/4/28 17:26:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:26:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:26:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:27:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.73 MiB(292270080 Bytes)
+2026/4/28 17:28:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 286.89 MiB(300822528 Bytes)
+2026/4/28 17:29:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292319232 Bytes)
+2026/4/28 17:30:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292323328 Bytes)
+2026/4/28 17:31:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 17:31:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 17:31:52
+2026/4/28 17:31:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:31:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.85 MiB(292392960 Bytes)
+2026/4/28 17:31:52|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:31:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:32:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.85 MiB(292397056 Bytes)
+2026/4/28 17:33:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292319232 Bytes)
+2026/4/28 17:34:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292319232 Bytes)
+2026/4/28 17:35:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.78 MiB(292319232 Bytes)
+2026/4/28 17:36:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:36:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 278.81 MiB(292356096 Bytes)
+2026/4/28 17:36:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:36:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:36:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:37:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 271.88 MiB(285085696 Bytes)
+2026/4/28 17:38:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 268.68 MiB(281726976 Bytes)
+2026/4/28 17:39:53|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 282.67 MiB(296402944 Bytes)
+2026/4/28 17:40:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.55 MiB(257482752 Bytes)
+2026/4/28 17:41:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 17:41:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 17:41:52
+2026/4/28 17:41:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:41:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 248.00 MiB(260042752 Bytes)
+2026/4/28 17:41:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:41:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:41:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:42:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 249.66 MiB(261791744 Bytes)
+2026/4/28 17:43:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 256.83 MiB(269307904 Bytes)
+2026/4/28 17:44:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.43 MiB(258404352 Bytes)
+2026/4/28 17:45:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.49 MiB(258465792 Bytes)
+2026/4/28 17:46:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:46:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 251.16 MiB(263364608 Bytes)
+2026/4/28 17:46:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:46:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:46:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:47:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 250.89 MiB(263081984 Bytes)
+2026/4/28 17:48:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 250.36 MiB(262524928 Bytes)
+2026/4/28 17:49:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.39 MiB(258359296 Bytes)
+2026/4/28 17:50:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 244.51 MiB(256389120 Bytes)
+2026/4/28 17:51:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 17:51:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 17:51:52
+2026/4/28 17:51:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 244.64 MiB(256520192 Bytes)
+2026/4/28 17:51:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:51:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:51:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:51:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:52:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 244.80 MiB(256688128 Bytes)
+2026/4/28 17:53:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.22 MiB(257130496 Bytes)
+2026/4/28 17:54:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.33 MiB(257245184 Bytes)
+2026/4/28 17:55:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.39 MiB(257314816 Bytes)
+2026/4/28 17:56:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.38 MiB(257294336 Bytes)
+2026/4/28 17:56:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 17:56:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 17:56:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 17:56:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 17:57:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.48 MiB(257409024 Bytes)
+2026/4/28 17:58:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.91 MiB(257859584 Bytes)
+2026/4/28 17:59:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.91 MiB(257859584 Bytes)
+2026/4/28 18:00:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 243.85 MiB(255692800 Bytes)
+2026/4/28 18:01:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 18:01:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 18:01:52
+2026/4/28 18:01:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.95 MiB(257900544 Bytes)
+2026/4/28 18:01:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:01:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:01:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:01:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:02:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.18 MiB(258134016 Bytes)
+2026/4/28 18:03:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 244.12 MiB(255975424 Bytes)
+2026/4/28 18:04:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 244.12 MiB(255975424 Bytes)
+2026/4/28 18:05:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.18 MiB(258142208 Bytes)
+2026/4/28 18:06:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 251.98 MiB(264224768 Bytes)
+2026/4/28 18:06:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:06:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:06:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:06:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:07:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 249.56 MiB(261685248 Bytes)
+2026/4/28 18:08:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 247.93 MiB(259973120 Bytes)
+2026/4/28 18:09:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 248.05 MiB(260104192 Bytes)
+2026/4/28 18:10:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 245.99 MiB(257941504 Bytes)
+2026/4/28 18:11:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 18:11:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 18:11:52
+2026/4/28 18:11:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 262.19 MiB(274923520 Bytes)
+2026/4/28 18:11:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:11:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:11:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:11:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:12:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 262.18 MiB(274911232 Bytes)
+2026/4/28 18:13:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.55 MiB(258531328 Bytes)
+2026/4/28 18:14:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 254.63 MiB(267001856 Bytes)
+2026/4/28 18:15:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 254.63 MiB(267001856 Bytes)
+2026/4/28 18:16:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.62 MiB(258596864 Bytes)
+2026/4/28 18:16:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:16:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:16:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:16:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:17:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.62 MiB(258596864 Bytes)
+2026/4/28 18:18:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.62 MiB(258596864 Bytes)
+2026/4/28 18:19:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 254.70 MiB(267067392 Bytes)
+2026/4/28 18:20:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.65 MiB(258633728 Bytes)
+2026/4/28 18:21:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 18:21:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 18:21:52
+2026/4/28 18:21:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 246.68 MiB(258666496 Bytes)
+2026/4/28 18:21:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:21:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:21:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:21:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:22:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 247.14 MiB(259149824 Bytes)
+2026/4/28 18:23:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 249.05 MiB(261144576 Bytes)
+2026/4/28 18:24:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 248.90 MiB(260993024 Bytes)
+2026/4/28 18:25:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 261.96 MiB(274690048 Bytes)
+2026/4/28 18:26:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 247.86 MiB(259895296 Bytes)
+2026/4/28 18:26:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:26:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:26:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:26:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:27:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 248.02 MiB(260071424 Bytes)
+2026/4/28 18:28:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 256.25 MiB(268697600 Bytes)
+2026/4/28 18:29:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 248.17 MiB(260227072 Bytes)
+2026/4/28 18:30:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.14 MiB(276967424 Bytes)
+2026/4/28 18:31:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 18:31:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 18:31:52
+2026/4/28 18:31:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.14 MiB(276971520 Bytes)
+2026/4/28 18:31:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:31:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:31:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:32:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.14 MiB(276971520 Bytes)
+2026/4/28 18:33:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.96 MiB(276783104 Bytes)
+2026/4/28 18:34:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.12 MiB(276951040 Bytes)
+2026/4/28 18:35:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.17 MiB(277000192 Bytes)
+2026/4/28 18:36:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.17 MiB(277000192 Bytes)
+2026/4/28 18:36:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:36:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:36:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:36:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:37:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.16 MiB(276996096 Bytes)
+2026/4/28 18:38:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.17 MiB(277000192 Bytes)
+2026/4/28 18:39:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.04 MiB(276860928 Bytes)
+2026/4/28 18:40:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.04 MiB(276865024 Bytes)
+2026/4/28 18:41:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 18:41:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 18:41:52
+2026/4/28 18:41:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.08 MiB(276905984 Bytes)
+2026/4/28 18:41:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:41:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:41:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:41:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:42:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.16 MiB(276996096 Bytes)
+2026/4/28 18:43:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.16 MiB(276996096 Bytes)
+2026/4/28 18:44:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.98 MiB(276799488 Bytes)
+2026/4/28 18:45:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.98 MiB(276799488 Bytes)
+2026/4/28 18:46:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.00 MiB(276828160 Bytes)
+2026/4/28 18:46:52|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:46:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:46:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:46:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:47:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.07 MiB(276897792 Bytes)
+2026/4/28 18:48:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.00 MiB(276828160 Bytes)
+2026/4/28 18:49:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.96 MiB(276787200 Bytes)
+2026/4/28 18:50:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.97 MiB(276791296 Bytes)
+2026/4/28 18:51:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 18:51:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 18:51:52
+2026/4/28 18:51:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.15 MiB(276979712 Bytes)
+2026/4/28 18:51:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:51:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:51:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:51:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:52:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.17 MiB(277000192 Bytes)
+2026/4/28 18:53:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.02 MiB(276844544 Bytes)
+2026/4/28 18:54:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.83 MiB(276643840 Bytes)
+2026/4/28 18:55:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 263.83 MiB(276643840 Bytes)
+2026/4/28 18:56:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.11 MiB(276938752 Bytes)
+2026/4/28 18:56:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 18:56:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 18:56:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 18:56:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 18:57:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.16 MiB(276996096 Bytes)
+2026/4/28 18:58:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.13 MiB(276963328 Bytes)
+2026/4/28 18:59:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.17 MiB(277004288 Bytes)
+2026/4/28 19:00:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.17 MiB(277004288 Bytes)
+2026/4/28 19:01:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 19:01:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 19:01:52
+2026/4/28 19:01:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 264.07 MiB(276901888 Bytes)
+2026/4/28 19:01:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:01:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:01:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:01:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:02:02|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'IsVisible' to '!ViewModel.SelectedPageInfo.HidePageTitle' at 'SelectedPageInfo': 'Value is null.' (Grid #25460733)
+2026/4/28 19:02:02|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding '__AvaloniaReserved::Classes::FullWidth' to 'ViewModel.SelectedPageInfo.UseFullWidth' at 'SelectedPageInfo': 'Value is null.' (Grid #25460733)
+2026/4/28 19:02:02|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'Text' to 'ViewModel.SelectedPageInfo.Name' at 'SelectedPageInfo': 'Value is null.' (TextBlock #44975884)
+2026/4/28 19:02:03|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Config\ReadAnnouncements.json
+2026/4/28 19:02:03|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\Users\zhuch\AppData\Local\ClassIsland\ReadAnnouncements.json
+2026/4/28 19:02:03|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|读取 JSON 文件：C:\ClassIsland\data\Cache\Announcements.json
+2026/4/28 19:02:04|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Cache\Announcements.json
+2026/4/28 19:02:33|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding 'Width' to '$visualParent[ComponentPresenter].Settings.LastWidthCache' at 'Settings': 'Value is null.' (Border #39540738)
+2026/4/28 19:02:33|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding '__AvaloniaReserved::Classes::MaxWidthEnabled' to '$visualParent[ComponentPresenter].Settings.IsMaxWidthEnabled' at 'Settings': 'Value is null.' (Border #ComponentRootBorder)
+2026/4/28 19:02:33|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding '__AvaloniaReserved::Classes::MinWidthEnabled' to '$visualParent[ComponentPresenter].Settings.IsMinWidthEnabled' at 'Settings': 'Value is null.' (Border #ComponentRootBorder)
+2026/4/28 19:02:33|Warning|ClassIsland.Services.Logging.AvaloniaLoggingSink|[Binding] An error occurred binding '__AvaloniaReserved::Classes::FixedWidthEnabled' to '$visualParent[ComponentPresenter].Settings.IsFixedWidthEnabled' at 'Settings': 'Value is null.' (Border #ComponentRootBorder)
+2026/4/28 19:02:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 534.31 MiB(560267264 Bytes)
+2026/4/28 19:03:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.52 MiB(553144320 Bytes)
+2026/4/28 19:04:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 554.01 MiB(580923392 Bytes)
+2026/4/28 19:05:02|Information|ClassIsland.Services.SettingsService|写入配置文件：关闭应用设置窗口
+2026/4/28 19:05:02|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:05:02|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Config\ComponentLayouts\Default.json
+2026/4/28 19:05:02|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Config\Automations\Default.json
+2026/4/28 19:05:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 524.45 MiB(549920768 Bytes)
+2026/4/28 19:06:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 525.82 MiB(551358464 Bytes)
+2026/4/28 19:06:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:06:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:06:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:06:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:07:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 502.13 MiB(526520320 Bytes)
+2026/4/28 19:08:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 510.27 MiB(535056384 Bytes)
+2026/4/28 19:09:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 508.16 MiB(532848640 Bytes)
+2026/4/28 19:10:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 508.21 MiB(532893696 Bytes)
+2026/4/28 19:11:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 19:11:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 19:11:52
+2026/4/28 19:11:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 510.08 MiB(534855680 Bytes)
+2026/4/28 19:11:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:11:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:11:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:11:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:12:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 508.04 MiB(532721664 Bytes)
+2026/4/28 19:13:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 508.04 MiB(532721664 Bytes)
+2026/4/28 19:14:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 524.20 MiB(549658624 Bytes)
+2026/4/28 19:15:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 516.18 MiB(541257728 Bytes)
+2026/4/28 19:16:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 518.90 MiB(544104448 Bytes)
+2026/4/28 19:16:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:16:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:16:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:16:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:17:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 519.04 MiB(544251904 Bytes)
+2026/4/28 19:18:53|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.11 MiB(552710144 Bytes)
+2026/4/28 19:19:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.11 MiB(552710144 Bytes)
+2026/4/28 19:20:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.11 MiB(552710144 Bytes)
+2026/4/28 19:21:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 19:21:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 19:21:53
+2026/4/28 19:21:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.05 MiB(552648704 Bytes)
+2026/4/28 19:21:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:21:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:21:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:21:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:22:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.95 MiB(552542208 Bytes)
+2026/4/28 19:23:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 518.57 MiB(543760384 Bytes)
+2026/4/28 19:24:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.68 MiB(552267776 Bytes)
+2026/4/28 19:25:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.65 MiB(552230912 Bytes)
+2026/4/28 19:26:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.65 MiB(552230912 Bytes)
+2026/4/28 19:26:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:26:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:26:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:26:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:27:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 532.41 MiB(558272512 Bytes)
+2026/4/28 19:28:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 518.83 MiB(544030720 Bytes)
+2026/4/28 19:29:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 519.04 MiB(544247808 Bytes)
+2026/4/28 19:30:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 518.88 MiB(544088064 Bytes)
+2026/4/28 19:31:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 19:31:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 19:31:53
+2026/4/28 19:31:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 529.72 MiB(555450368 Bytes)
+2026/4/28 19:31:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:31:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:31:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:31:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:32:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 499.88 MiB(524161024 Bytes)
+2026/4/28 19:33:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 504.48 MiB(528986112 Bytes)
+2026/4/28 19:34:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 524.53 MiB(550010880 Bytes)
+2026/4/28 19:35:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.89 MiB(552488960 Bytes)
+2026/4/28 19:36:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.00 MiB(552595456 Bytes)
+2026/4/28 19:36:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:36:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:36:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:36:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:37:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.14 MiB(552742912 Bytes)
+2026/4/28 19:38:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.99 MiB(552591360 Bytes)
+2026/4/28 19:39:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.99 MiB(552591360 Bytes)
+2026/4/28 19:40:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.99 MiB(552591360 Bytes)
+2026/4/28 19:41:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 19:41:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 19:41:53
+2026/4/28 19:41:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.99 MiB(552591360 Bytes)
+2026/4/28 19:41:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:41:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:41:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:41:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:42:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.12 MiB(552726528 Bytes)
+2026/4/28 19:43:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 527.09 MiB(552697856 Bytes)
+2026/4/28 19:44:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 526.97 MiB(552566784 Bytes)
+2026/4/28 19:45:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 525.34 MiB(550862848 Bytes)
+2026/4/28 19:46:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 525.40 MiB(550924288 Bytes)
+2026/4/28 19:46:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:46:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:46:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:46:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:47:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 517.32 MiB(542453760 Bytes)
+2026/4/28 19:48:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 517.32 MiB(542453760 Bytes)
+2026/4/28 19:49:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 517.32 MiB(542453760 Bytes)
+2026/4/28 19:50:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 525.39 MiB(550916096 Bytes)
+2026/4/28 19:51:52|Information|ClassIsland.Services.ExactTimeService|正在从 ntp.aliyun.com 同步时间
+2026/4/28 19:51:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 517.19 MiB(542310400 Bytes)
+2026/4/28 19:51:52|Information|ClassIsland.Services.ExactTimeService|成功地同步了时间，现在是 04/28/2026 19:51:53
+2026/4/28 19:51:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:51:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:51:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:51:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:52:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 509.83 MiB(534593536 Bytes)
+2026/4/28 19:53:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 506.26 MiB(530849792 Bytes)
+2026/4/28 19:54:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 506.31 MiB(530903040 Bytes)
+2026/4/28 19:55:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 503.19 MiB(527630336 Bytes)
+2026/4/28 19:56:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 506.26 MiB(530849792 Bytes)
+2026/4/28 19:56:53|Information|ClassIsland.Services.WeatherService|获取城市信息： https://weatherapi.market.xiaomi.com/wtr-v3/location/city/geo?longitude=***&latitude=***&locale=zh_cn
+2026/4/28 19:56:53|Information|ClassIsland.Services.WeatherService|获取天气信息： https://weatherapi.market.xiaomi.com/wtr-v3/weather/all?latitude=***&longitude=***&locationKey=weathercn%3A101020600&days=15&appKey=weather20151024&sign=zUFJoAR2ZVrDy1vF3D07&isGlobal=false&locale=zh_cn
+2026/4/28 19:56:53|Information|ClassIsland.Services.SettingsService|写入配置文件：LastWeatherInfo
+2026/4/28 19:56:53|Information|ClassIsland.Shared.Helpers.ConfigureFileHelper|写入 JSON 文件：C:\ClassIsland\data\Settings.json
+2026/4/28 19:57:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 500.15 MiB(524447744 Bytes)
+2026/4/28 19:58:52|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 500.12 MiB(524414976 Bytes)
+2026/4/28 19:59:53|Information|ClassIsland.Services.MemoryWatchDogService|当前内存使用: 500.12 MiB(524414976 Bytes)
